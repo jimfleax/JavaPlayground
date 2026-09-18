@@ -13,5 +13,6 @@ public class Number_Triangle {
             }
             System.out.println("");
         }
+        sc.close();
     }
 }

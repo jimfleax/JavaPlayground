@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 public class Factorial {
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number: ");
-        int number = input.nextInt();
+        int number = sc.nextInt();
         int factorial = 1;
 
         for (int i = 1; i <= number; i++) {
@@ -14,5 +14,6 @@ public class Factorial {
         }
 
         System.out.println("Factorial of " + number + " is: " + factorial);
+        sc.close();
     }
 }

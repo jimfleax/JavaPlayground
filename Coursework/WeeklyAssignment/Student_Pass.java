@@ -14,5 +14,6 @@ public class Student_Pass {
         } else {
             System.out.println("You have failed!");
         }
+        sc.close();
     }
 }

@@ -31,5 +31,6 @@ public class Grading_System {
         } else {
             System.out.println("Grade: F");
         }
+        input.close();
     }
 }

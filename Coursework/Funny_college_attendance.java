@@ -20,5 +20,6 @@ public class Funny_college_attendance {
         } else {
             System.out.println("Complete your work first!");
         }
+        input.close();
     }
 }

@@ -15,5 +15,6 @@ public class Loop_Password {
                 System.out.println("Oops! Wrong password. Enter again.");
             }
         }
+        sc.close();
     }
 }
