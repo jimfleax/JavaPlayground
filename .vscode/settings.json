@@ -1,5 +1,26 @@
 {
     "java.project.sourcePaths": [
-        "Coursework"
+        "Assignments/Day_06",
+        "Assignments/Day_07",
+        "Coursework/Arrays",
+        "Coursework/Basics",
+        "Coursework/Loops",
+        "Coursework/Methods",
+        "Coursework/Patterns",
+        "Coursework/WeeklyAssignment",
+        "Learning/Trainer Docs/Day_06_Loops_ACTUAL_Trainer_Package/03_Class_Code",
+        "Learning/Trainer Docs/Day_07_Methods_Functions_ACTUAL_Trainer_Package/03_Class_Code",
+        "Practice/Arrays",
+        "Practice/Loops",
+        "Practice/Methods",
+        "Practice/Patterns",
+        "Practice/Projects",
+        "PracticeProblems/Conditionals",
+        "PracticeProblems/Day06_Practice",
+        "PracticeProblems/Day07_Practice",
+        "PracticeProblems/IncrementDecrement",
+        "PracticeProblems/Loops",
+        "PracticeProblems/MethodsProject",
+        "PracticeProblems/StatementBasedMiniProjects"
     ]
 }
