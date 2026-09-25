@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "sumArray",
+            "request": "launch",
+            "mainClass": "Arrays.sumArray",
+            "projectName": "JavaPlayground_452663cf"
+        },
+        {
+            "type": "java",
+            "name": "DifferenceOfMaxMin",
+            "request": "launch",
+            "mainClass": "WeeklyAssignment.DifferenceOfMaxMin",
+            "projectName": "JavaPlayground_452663cf"
+        },
+        {
+            "type": "java",
+            "name": "AcademicModule",
+            "request": "launch",
+            "mainClass": "Methods.AcademicModule",
+            "projectName": "JavaPlayground_452663cf"
+        },
+        {
+            "type": "java",
+            "name": "Employee",
+            "request": "launch",
+            "mainClass": "Methods.Employee",
+            "projectName": "JavaPlayground_452663cf"
+        },
+        {
+            "type": "java",
+            "name": "ParametricMethods",
+            "request": "launch",
+            "mainClass": "Methods.ParametricMethods",
+            "projectName": "JavaPlayground_452663cf"
+        },
+        {
+            "type": "java",
+            "name": "student",
+            "request": "launch",
+            "mainClass": "Methods.student",
+            "projectName": "JavaPlayground_452663cf"
+        },
+        {
+            "type": "java",
             "name": "Number_Triangle",
             "request": "launch",
             "mainClass": "Patterns.Number_Triangle",
