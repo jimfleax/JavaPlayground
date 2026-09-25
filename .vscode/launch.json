@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "copyArray",
+            "request": "launch",
+            "mainClass": "Arrays.copyArray",
+            "projectName": "JavaPlayground_452663cf"
+        },
+        {
+            "type": "java",
             "name": "sumArray",
             "request": "launch",
             "mainClass": "Arrays.sumArray",
