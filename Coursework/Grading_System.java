@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Grading_System {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
+        System.out.print("Enter score: ");
         int score = input.nextInt();
         if (score >= 90) {
             System.out.println("Grade: A+");

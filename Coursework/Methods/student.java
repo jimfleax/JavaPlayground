@@ -1,7 +1,5 @@
 package Methods;
 
-import java.util.Scanner;
-
 public class student {
     static void StudentDetails() {
         String name = "Reetabrata";
@@ -15,7 +13,6 @@ public class student {
         System.out.println("Hello!!");
     }
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
         String name = "Reetabrata";
         System.out.println("Hello " + name);
         Greet();

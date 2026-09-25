@@ -6,7 +6,7 @@ public class AcademicModule {
     int threeSubjectMarks;
 
     static double calculateAttendance(int attended, int total) {
-        return (attended/total)*100;
+        return ((double) attended / total) * 100;
     }
 
     static double calculateAverage(int m1, int m2, int m3) {

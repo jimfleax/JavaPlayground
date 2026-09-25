@@ -1,11 +1,11 @@
 package Methods;
 
 public class ParametricMethods {
-    static int sum(float x, int y) {
+    static float sum(float x, int y) {
         return x+y;
     }
 
-    static void main() {
+    public static void main(String[] args) {
         System.out.println(sum(3,5));
     }
 }
